@@ -48,5 +48,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
-
- Make sure to replace `https://github.com/abhi-zero/calculator-app` with the actual URL of your repository.
+`https://github.com/abhi-zero/calculator-app` 
